@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on Agentic AI<br>I'm looking to collaborate on AI, MLOps, ML, Data Science<br>
+I'm a Machine Learning Engineer and AI Developer passionate about creating intelligent systems and developer tools. My work bridges deep learning, natural language processing, and AI-driven developer experiences.
+
+🧠 Projects
+* HyperSpectral-AI: Advanced hyperspectral image classification using CNNs and autoencoders for applications in remote sensing and environmental monitoring. 
+* ChatTensorFlow & ChatSkLearn: Conversational agents that assist users with TensorFlow and Scikit-learn queries by leveraging LangGraph-based agents, vector embeddings, and multi-provider LLM support. 
+
+🌐 Let's Connect
+Feel free to explore my repositories and reach out for collaborations or discussions on AI and machine learning.
 
 
 ## 🌐 Socials:
