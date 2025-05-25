@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a Machine Learning Engineer and AI Developer passionate about creating intelligent systems and developer tools. My work bridges deep learning, natural language processing, and AI-driven developer experiences.
 
-## 🧠 Projects
+## 🧠 My Top Projects
 * **HyperSpectral-AI**: Advanced hyperspectral image classification using CNNs and autoencoders for applications in remote sensing and environmental monitoring. 
 * **ChatTensorFlow & ChatSkLearn**: Conversational agents that assist users with TensorFlow and Scikit-learn queries by leveraging LangGraph-based agents, vector embeddings, and multi-provider LLM support. 
 
