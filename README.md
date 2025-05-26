@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Machine Learning Engineer and AI Developer passionate about creating intelligent systems and developer tools. My work bridges deep learning, natural language processing, and AI-driven developer experiences.
+I'm a Machine Learning Engineer and AI Developer passionate about creating intelligent systems and developer tools. My work bridges MLOps, deep learning, natural language processing, and AI-driven developer experiences.
 
 ## 🧠 My Top Projects
 * **HyperSpectral-AI**: Advanced hyperspectral image classification using CNNs and autoencoders for applications in remote sensing and environmental monitoring. 
