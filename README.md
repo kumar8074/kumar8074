@@ -3,7 +3,8 @@ I'm a Machine Learning Engineer and AI Developer passionate about creating intel
 
 ## 🧠 My Top Projects
 * **HyperSpectral-AI**: Advanced hyperspectral image classification using CNNs and autoencoders for applications in remote sensing and environmental monitoring. 
-* **ChatTensorFlow & ChatSkLearn**: Conversational agents that assist users with TensorFlow and Scikit-learn queries by leveraging LangGraph-based agents, vector embeddings, and multi-provider LLM support. 
+* **ChatTensorFlow & ChatSkLearn**: Conversational agents that assist users with TensorFlow and Scikit-learn queries by leveraging LangGraph-based agents, vector embeddings, and multi-provider LLM support.
+* **GitSurfer:** An AI-powered assistant that analyzes and summarizes GitHub repositories using LLMs and vector embeddings, providing deep insights and research capabilities. 
 
  
 ## 🌐 Socials:
