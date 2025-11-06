@@ -14,7 +14,7 @@ I'm a Machine Learning Engineer and AI Developer passionate about creating intel
 Let's Connect
 Feel free to explore my repositories and reach out for collaborations or discussions on AI and machine learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalan-kumar-983267229/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalan.k8977@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalan-kumar-983267229/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalan.k.4590@gmail.com)
 
 
 
